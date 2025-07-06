@@ -1,3 +1,1 @@
-#Add test file for repo3
-
-Test it is in local
+"Repo3 cloned to local sucessfully" 
